@@ -4,7 +4,8 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
-
+# Vendor Folder
+server/vendor/*
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
